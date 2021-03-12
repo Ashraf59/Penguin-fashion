@@ -1,0 +1,75 @@
+
+.heading{
+    font-size: 55px;
+    font-family: 'Russo One', sans-serif;
+
+}
+.tomato{
+    color: tomato;
+    font-size: 60px;
+    font-family: 'Russo One', sans-serif;
+}
+.blue{
+
+    color: rgb(4, 4, 102);
+    font-size: 60px;
+    font-family: 'Russo One', sans-serif;
+}
+
+/* .half-width {
+
+    width: 42%;
+    float:left;
+    margin: 4%;
+    padding: 2%;
+    
+
+} */
+/* .half-width img {
+
+    width: 100%;
+    
+}
+.nike{
+
+    clear:both;
+    
+}
+.bg-color{
+    background-color: pink;
+    
+} */
+
+.bg-color{
+    background-color: rgb(247, 241, 242);
+    padding: 30px;
+}
+/* .categories img{
+
+    width: 355px;
+    background-color: rgb(235, 228, 228);
+    border-radius: 10px;
+    padding: 20px;
+} */
+
+.penguin-card-footer{
+
+    background-color: white;
+    border: 0;
+}
+
+.penguin-card{
+    border: 0;
+      
+}
+.logo img{
+
+    width: 80px;
+
+}
+
+.shopping-card img{
+
+    width: 500px;
+
+}
